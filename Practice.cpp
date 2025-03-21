@@ -11,9 +11,11 @@ using namespace std;
 */
 
 /*
-* Branch name
-*
-*
+* Branch's name:
+* main : total program.
+* write : write program.
+* test_debug : test program and debug.
+* Program write in write branch and test and debug in test_debug branch and total program in amin branch.
 */
 
 // TODO Classes

@@ -23,7 +23,9 @@ using namespace std;
 // & class_b.
 class class_b{
 
+protected : 
 
+int number_1_protected_class_b ;
 
 
 };

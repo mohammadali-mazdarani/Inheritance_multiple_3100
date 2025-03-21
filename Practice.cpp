@@ -29,7 +29,7 @@ int number_1_protected_class_b ;
 
 public :
 
-void method_1_protected_class_b_set_number_1_protected_class_b( int number_1_input_method_1_protected_class_b) ;
+void method_1_public_class_b_set_number_1_protected_class_b( int number_1_input_method_1_protected_class_b) ;
 
 };
 
@@ -50,10 +50,7 @@ getch();
 * This method set input value to method into number_1_protected_class_b.
 */
 
-void method_1_protected_class_b_set_number_1_protected_class_b( int number_1_input_method_1_protected_class_b) {
-
-
-
+void method_1_public_class_b_set_number_1_protected_class_b( int number_1_input_method_1_protected_class_b) {
 
 } ;
 //--------------------------

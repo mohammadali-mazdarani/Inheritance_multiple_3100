@@ -41,5 +41,11 @@ int main(int argc, char** argv)
 getch();
 }
 
-// TODO Method's for classes
+// TODO Method's for classes.
+
+// & Method's for class_b:
+/*
+* method_1_protected_class_b.
+*/
+
 //--------------------------

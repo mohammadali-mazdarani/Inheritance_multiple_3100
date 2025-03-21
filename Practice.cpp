@@ -19,6 +19,15 @@ using namespace std;
 */
 
 // TODO Classes
+
+// & class_b.
+class class_b{
+
+
+
+
+};
+
 //-------------------
 
 int main(int argc, char** argv)

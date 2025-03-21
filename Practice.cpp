@@ -27,6 +27,9 @@ protected :
 
 int number_1_protected_class_b ;
 
+public :
+
+void method_1_protected_class_b_set_number_1_protected_class_b( int number_1_input_method_1_protected_class_b) ;
 
 };
 

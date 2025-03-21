@@ -6,7 +6,8 @@ using namespace std;
 ) or input loop */
 
 /* 
-* Description of program
+* Description of program : 
+* This program show Inheritance multiple.
 */
 
 /*

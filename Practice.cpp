@@ -45,7 +45,9 @@ getch();
 
 // & Method's for class_b:
 /*
-* method_1_protected_class_b.
+* method name : method_1_protected_class_b.
+* This method receive integer value and don't sent any value.
+* This method set input value to method into number_1_protected_class_b.
 */
 
 void method_1_protected_class_b_set_number_1_protected_class_b( int number_1_input_method_1_protected_class_b) {

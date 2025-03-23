@@ -36,9 +36,11 @@ void method_2_public_class_b_display() ;
 };
 
 // //####################################
-class class_D1 : public class_b{
+class class_d1 : public class_b{
 
+protected : 
 
+int number_1_protected_class_d1 ;
 
 
 } ;

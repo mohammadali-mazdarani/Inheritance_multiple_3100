@@ -61,7 +61,16 @@ number_1_protected_class_b = number_1_input_method_1_protected_class_b ;
 } ;
 
 /*
+
 * Method name: method_2_public_class_b.
 
 */
+
+void class_b :: method_2_public_class_b_display(){
+
+cout << "class_b" << endl ;
+
+cout << "--------------" << endl ;
+
+}
 //--------------------------

@@ -97,6 +97,10 @@ cout << "--------------" << endl ;
 
 // & Method's for class_d1:
 
+void class_d1 :: method_1_public_class_d1_set_number_1_protected_class_d1( int input_number_1_method_1_public_class_d1 ){
 
+number_1_protected_class_d1 = input_number_1_method_1_public_class_d1 ;
+
+} ;
 
 //--------------------------

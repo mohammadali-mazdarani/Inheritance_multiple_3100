@@ -23,28 +23,29 @@ using namespace std;
 // & class_b.
 class class_b{
 
-protected : 
+    protected : 
 
-int number_1_protected_class_b ;
+        int number_1_protected_class_b ;
 
-public :
+    public :
 
-void method_1_public_class_b_set_number_1_protected_class_b( int number_1_input_method_1_protected_class_b) ;
+        void method_1_public_class_b_set_number_1_protected_class_b( int number_1_input_method_1_protected_class_b) ;
 
-void method_2_public_class_b_display() ;
+    void method_2_public_class_b_display() ;
 
 };
 
 // //####################################
-class class_d1 : public class_b{
+class class_d1 : public class_b
+{
 
-protected : 
+   protected : 
 
-int number_1_protected_class_d1 ;
+        int number_1_protected_class_d1 ;
 
-public : 
+   public : 
 
-void method_1_public_class_d1_set_number_1_protected_class_d1( int input_number_1_method_1_public_class_d1 )
+        void method_1_public_class_d1_set_number_1_protected_class_d1( int input_number_1_method_1_public_class_d1 )
  ;
 
 } ;
@@ -70,10 +71,11 @@ getch();
 
 */
 
-void class_b :: method_1_public_class_b_set_number_1_protected_class_b( int number_1_input_method_1_protected_class_b) {
+void class_b :: method_1_public_class_b_set_number_1_protected_class_b( int number_1_input_method_1_protected_class_b) 
+{
 
 
-number_1_protected_class_b = number_1_input_method_1_protected_class_b ;
+    number_1_protected_class_b = number_1_input_method_1_protected_class_b ;
 
 } ;
 
@@ -85,11 +87,12 @@ number_1_protected_class_b = number_1_input_method_1_protected_class_b ;
 
 */
 
-void class_b :: method_2_public_class_b_display(){
+void class_b :: method_2_public_class_b_display()
+{
 
-cout << "class_b" << endl ;
+    cout << "class_b" << endl ;
 
-cout << "--------------" << endl ;
+    cout << "--------------" << endl ;
 
 }
 
@@ -104,9 +107,10 @@ cout << "--------------" << endl ;
 
 */
 
-void class_d1 :: method_1_public_class_d1_set_number_1_protected_class_d1( int input_number_1_method_1_public_class_d1 ){
+void class_d1 :: method_1_public_class_d1_set_number_1_protected_class_d1( int input_number_1_method_1_public_class_d1 )
+{
 
-number_1_protected_class_d1 = input_number_1_method_1_public_class_d1 ;
+    number_1_protected_class_d1 = input_number_1_method_1_public_class_d1 ;
 
 } ;
 

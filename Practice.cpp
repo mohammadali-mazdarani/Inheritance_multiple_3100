@@ -35,7 +35,16 @@ void method_2_public_class_b_display() ;
 
 };
 
-//-------------------
+// //####################################
+class class_D1 : public class_b{
+
+
+
+
+} ;
+
+
+// // ############################
 
 int main(int argc, char** argv)
 {

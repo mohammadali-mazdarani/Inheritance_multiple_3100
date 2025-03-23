@@ -42,6 +42,10 @@ protected :
 
 int number_1_protected_class_d1 ;
 
+public : 
+
+void method_1_public_class_d1_set_number_1_protected_class_d1( int input_number_1_method_1_public_class_d1 )
+ ;
 
 } ;
 

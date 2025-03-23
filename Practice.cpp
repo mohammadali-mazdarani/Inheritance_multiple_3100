@@ -97,6 +97,13 @@ cout << "--------------" << endl ;
 
 // & Method's for class_d1:
 
+/*
+* Name of class_d1 : method_1_public_class_d1_set_number_1_protected_class_d1
+* This class don't sent value and don't receive value.
+* This class set input_number_1 in method_1_public class_d1 to number_1 protected class_d1.
+
+*/
+
 void class_d1 :: method_1_public_class_d1_set_number_1_protected_class_d1( int input_number_1_method_1_public_class_d1 ){
 
 number_1_protected_class_d1 = input_number_1_method_1_public_class_d1 ;

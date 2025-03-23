@@ -31,7 +31,7 @@ class class_b{
 
         void method_1_public_class_b_set_number_1_protected_class_b( int number_1_input_method_1_protected_class_b) ;
 
-    void method_2_public_class_b_display() ;
+        void method_2_public_class_b_display() ;
 
 };
 
@@ -39,11 +39,11 @@ class class_b{
 class class_d1 : public class_b
 {
 
-   protected : 
+    protected : 
 
         int number_1_protected_class_d1 ;
 
-   public : 
+    public : 
 
         void method_1_public_class_d1_set_number_1_protected_class_d1( int input_number_1_method_1_public_class_d1 )
  ;

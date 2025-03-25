@@ -56,7 +56,8 @@ class class_d1 : public class_b
 class d2 : public class_d1
 {
 
-
+    protected :
+        int number_1_protected_class_d2 ;
 
 } ;
 

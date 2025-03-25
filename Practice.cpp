@@ -115,4 +115,11 @@ void class_d1 :: method_1_public_class_d1_set_number_1_protected_class_d1( int i
 
 } ;
 
+/*
+
+* Method name: method_2_public_class_d1.
+* This method dont receive and don't sent any value.
+* This method set display class_d1 with cout.
+
+*/
 //--------------------------

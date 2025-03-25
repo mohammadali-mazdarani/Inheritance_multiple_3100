@@ -53,7 +53,7 @@ class class_d1 : public class_b
 
 // // ############################
 
-class d2 : public class_d1
+class class_d2 : public class_d1
 {
 
     protected :
@@ -145,4 +145,6 @@ void method_2_public_class_d1_display()
 // //#############################
 
 // & Method's for class_d2 :
+
+
 //--------------------------

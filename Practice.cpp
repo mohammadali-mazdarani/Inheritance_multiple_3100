@@ -69,6 +69,16 @@ class class_d2 : public class_d1
 
 // // ############################
 
+class class_d3 : public class_d2
+{
+
+
+
+    
+} ;
+
+// // ############################
+
 int main(int argc, char** argv)
 {
 

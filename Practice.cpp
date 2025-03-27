@@ -75,6 +75,8 @@ class class_d3 : public class_d2
     private :
         int number_1_private_class_d3 ;
 
+    public :
+        void method_1_public_class_d3_set_input_number_into_number_1_private_class_d3( int input_number_1_method_1_public_class_d3) ;
     
 } ;
 

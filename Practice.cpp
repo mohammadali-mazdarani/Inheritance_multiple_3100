@@ -62,6 +62,9 @@ class class_d2 : public class_d1
     public :
         void method_1_public_class_d2_set_number_1_protected_class_d2( int input_number_1_method_1_public_class_d2 ) ;
 
+        void method_2_public_class_d2_display() ;
+
+
 } ;
 
 // // ############################

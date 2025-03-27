@@ -72,7 +72,8 @@ class class_d2 : public class_d1
 class class_d3 : public class_d2
 {
 
-
+    private :
+        int number_1_private_class_d3 ;
 
     
 } ;

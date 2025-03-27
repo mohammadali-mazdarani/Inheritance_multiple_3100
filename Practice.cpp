@@ -191,4 +191,7 @@ void method_2_public_class_d2_display()
     cout << "class_d2" << endl ;
 
 }
-//--------------------------
+
+// //#############################
+
+// & Method's for class_d3 :

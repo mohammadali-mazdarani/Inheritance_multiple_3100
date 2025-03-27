@@ -195,3 +195,12 @@ void method_2_public_class_d2_display()
 // //#############################
 
 // & Method's for class_d3 :
+
+/*
+
+* Method_1 public class_d3
+* Method name : method_1_public_class_d3_set_input_number_into_number_1_private_class_d3.
+* This method receive integer value and don't sent value.
+* This method set number_1 public class d3 with input number in method_1 public class_d3.
+
+*/

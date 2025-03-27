@@ -146,6 +146,14 @@ void method_2_public_class_d1_display()
 
 // & Method's for class_d2 :
 
+/*
+
+* Method_1 public class_d2
+* Method name : method_1_public_class_d2_set_number_1_protected_class_d2.
+* This method receive integer value and don't sent value.
+* This method set number_1 protected class d2 with input number in method_1 public class_d2.
+
+*/
 void class_d2 :: method_1_public_class_d2_set_number_1_protected_class_d2( int input_number_1_method_1_public_class_d2 )
 {
 

@@ -214,6 +214,14 @@ void class_d3 :: method_1_public_class_d3_set_input_number_into_number_1_private
 
 }
 
+/*
+
+* Method name: method_2_public_class_d3.
+* This method don't receive and don't sent any value.
+* This method set display class_d3 with cout.
+
+*/
+
 void class_d3 :: method_2_public_class_d3_display() 
 {
 

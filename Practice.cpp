@@ -89,9 +89,11 @@ class class_d3 : public class_d2
 int main(int argc, char** argv)
 {
 
-class_d3 object_1_class_d3 ;
+    class_d3 object_1_class_d3 ;
 
-object_1_class_d3.method_1_public_class_b_set_number_1_protected_class_b( 1 ) ;
+    object_1_class_d3.          method_1_public_class_b_set_number_1_protected_class_b( 1 ) ;
+
+    object_1_class_d3.method_1_public_class_d1_set_number_1_protected_class_d1( 2 ) ;
 
 
 getch();

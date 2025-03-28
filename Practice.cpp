@@ -101,6 +101,14 @@ int main(int argc, char** argv)
 
     cout << "sum = " << object_1_class_d3.method_3_public_class_d3_sum_value_fields_in_other_class_d1_d2_d3_b() ;
 
+    object_1_class_d3.method_2_public_class_b_display() ;
+
+    object_1_class_d3.method_2_public_class_d1_display() ;
+
+    object_1_class_d3.method_2_public_class_d2_display() ;
+
+    object_1_class_d3.method_2_public_class_d3_display() ;
+
 getch();
 }
 

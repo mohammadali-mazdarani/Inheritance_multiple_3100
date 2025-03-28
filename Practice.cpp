@@ -89,6 +89,9 @@ class class_d3 : public class_d2
 int main(int argc, char** argv)
 {
 
+class_d3 object_1_class_d3 ;
+
+
 getch();
 }
 

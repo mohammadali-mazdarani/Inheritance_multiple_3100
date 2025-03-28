@@ -79,6 +79,8 @@ class class_d3 : public class_d2
         void method_1_public_class_d3_set_input_number_into_number_1_private_class_d3( int input_number_1_method_1_public_class_d3) ;
 
         void method_2_public_class_d3_display() ;
+
+        int method_3_public_class_d3_sum_value_fields_in_other_class_d1_d2_d3() ;
     
 } ;
 

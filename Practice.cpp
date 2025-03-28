@@ -204,3 +204,9 @@ void method_2_public_class_d2_display()
 * This method set number_1 public class d3 with input number in method_1 public class_d3.
 
 */
+
+void class_d3 :: method_1_public_class_d3_set_input_number_into_number_1_private_class_d3( int input_number_1_method_1_public_class_d3){
+
+number_1_private_class_d3 = input_number_1_method_1_public_class_d3 ;
+
+}

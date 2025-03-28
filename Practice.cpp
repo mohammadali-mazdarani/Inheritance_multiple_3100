@@ -105,9 +105,9 @@ int main(int argc, char** argv)
 
     object_1_class_d3.method_2_public_class_d1_display() ;
 
-    // object_1_class_d3.method_2_public_class_d2_display() ;
+    object_1_class_d3.method_2_public_class_d2_display() ;
 
-    // object_1_class_d3.method_2_public_class_d3_display() ;
+    object_1_class_d3.method_2_public_class_d3_display() ;
 
 getch();
 }

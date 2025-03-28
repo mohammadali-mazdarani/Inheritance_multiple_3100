@@ -99,15 +99,15 @@ int main(int argc, char** argv)
 
     object_1_class_d3.method_1_public_class_d3_set_input_number_into_number_1_private_class_d3( 4 ) ;
 
-    cout << "sum = " << object_1_class_d3.method_3_public_class_d3_sum_value_fields_in_other_class_d1_d2_d3_b() ;
+    cout << "sum = " << object_1_class_d3.method_3_public_class_d3_sum_value_fields_in_other_class_d1_d2_d3_b() << endl <<  "---------------" << endl ;
 
     object_1_class_d3.method_2_public_class_b_display() ;
 
     object_1_class_d3.method_2_public_class_d1_display() ;
 
-    object_1_class_d3.method_2_public_class_d2_display() ;
+    // object_1_class_d3.method_2_public_class_d2_display() ;
 
-    object_1_class_d3.method_2_public_class_d3_display() ;
+    // object_1_class_d3.method_2_public_class_d3_display() ;
 
 getch();
 }
@@ -175,7 +175,7 @@ void class_d1 :: method_1_public_class_d1_set_number_1_protected_class_d1( int i
 
 */
 
-void method_2_public_class_d1_display()
+void class_d1 :: method_2_public_class_d1_display()
 {
 
     cout << "class_d1" << endl ;

@@ -232,3 +232,13 @@ void class_d3 :: method_2_public_class_d3_display()
     cout << "class_d3" << endl ;
 
 }
+
+int class_d3 :: method_3_public_class_d3_sum_value_fields_in_other_class_d1_d2_d3_b(){
+
+int sum_of_fields_in_class_d1_d2_d3_b ;
+
+sum_of_fields_in_class_d1_d2_d3_b = number_1_protected_class_b + number_1_protected_class_d1 + number_1_protected_class_d2 + number_1_private_class_d3 ;
+
+return sum_of_fields_in_class_d1_d2_d3_b;
+
+}

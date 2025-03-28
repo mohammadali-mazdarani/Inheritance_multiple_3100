@@ -95,6 +95,8 @@ int main(int argc, char** argv)
 
     object_1_class_d3.method_1_public_class_d1_set_number_1_protected_class_d1( 2 ) ;
 
+    object_1_class_d3.method_1_public_class_d2_set_number_1_protected_class_d2( 3 ) ;
+
 
 getch();
 }
